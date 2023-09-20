@@ -42,9 +42,9 @@ Environment
 ```
 ### Methods for comparison
 We compare our method to the ERM baseline as well as other Domain Generalization methods (DRGen and Fishr).
-The implementations of the DG algorithms can be found:
+The official implementations of the DG algorithms can be found:
 1. [DRGen](https://github.com/BioMedIA-MBZUAI/DRGen)
-2. [Fishr] - can be implemented by setting ```--swad False ``` in DRGen
+2. [Fishr](https://github.com/alexrame/fishr)
 
 ### How to Run
 The datasets directory must follow the [DomainBed](https://github.com/facebookresearch/DomainBed) dataset structure, i.e. organize the images into separate directories based on their respective labels. We averaged our results over 3 random seeds(0, 1, 2).
