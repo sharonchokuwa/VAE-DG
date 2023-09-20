@@ -16,8 +16,7 @@ This repository contains the source code for the paper titled "Generalizing Acro
 Domain generalization for Diabetic Retinopathy (DR) classification allows a model to adeptly classify retinal images from previously unseen domains with various imaging conditions and patient demographics, thereby enhancing its applicability in a wide range of clinical environments. In this study, we explore the inherent capacity of variational autoencoders to disentangle the latent space of fundus images, with an aim to obtain a more robust and adaptable domain-invariant representation that effectively tackles the domain shift encountered in DR datasets. Despite the simplicity of our approach, we explore the efficacy of this classical method and demonstrate its ability to outperform contemporary state-of-the-art approaches for this task using publicly available datasets. Our findings challenge the prevailing assumption that highly sophisticated methods for DR classification are inherently superior for domain generalization. This highlights the importance of considering simple methods and adapting them to the challenging task of  generalizing medical images, rather than solely relying on advanced techniques. 
 
 ## Method
-![picture alt](figures/method.png "Method")
-<img src="figures/method.png" alt="picture alt" width="60%">
+<img src="figures/method.png" alt="picture alt" width="80%">
 
 ## Getting Started
 
