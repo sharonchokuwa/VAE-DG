@@ -1,4 +1,4 @@
-# Generalizing Across Domains in Diabetic Retinopathy via Variational Autoencoders
+## Generalizing Across Domains in Diabetic Retinopathy via Variational Autoencoders
 Accepted at MICCAI 2023 1st International Workshop on Foundation Models for General Medical AI (MedAGI)
 
 ## Overview
@@ -17,6 +17,7 @@ Domain generalization for Diabetic Retinopathy (DR) classification allows a mode
 
 ## Method
 ![picture alt](figures/method.png "Method")
+<img src="figures/method.png" alt="picture alt" width="60%">
 
 ## Getting Started
 
