@@ -60,6 +60,14 @@ python train_all.py name_of_exp
 ```
 
 ## Citation
+```
+@article{chokuwa2023generalizing,
+  title={Generalizing Across Domains in Diabetic Retinopathy via Variational Autoencoders},
+  author={Chokuwa, Sharon and Khan, Muhammad H},
+  journal={arXiv preprint arXiv:2309.11301},
+  year={2023}
+}
+```
 
 
 ## References
